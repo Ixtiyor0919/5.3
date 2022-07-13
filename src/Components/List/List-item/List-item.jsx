@@ -65,7 +65,7 @@ function ListItem() {
                 <span className='suggestion-item-comment'>3</span>
             </li>   
 
-            <li className='suggestion-item'>
+            {/* <li className='suggestion-item'>
                 <div className='suggestion-item-btn'>3</div>
                 <div className='suggestion-item-card'>
                     <h2 className='suggestion-item-card-title'>Preview images not loading</h2>
@@ -75,7 +75,7 @@ function ListItem() {
                     <button className='suggestion-item-card-btn'>Bug</button>
                 </div>
                 <span className='suggestion-item-comment'>0</span>
-            </li>   
+            </li>    */}
         </>
     )
 }
